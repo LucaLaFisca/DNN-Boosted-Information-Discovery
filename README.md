@@ -2,7 +2,7 @@
 By [Luca La Fisca](https://www.linkedin.com/in/luca-la-fisca-28554415a/) and [Baptiste Piron](https://www.linkedin.com/in/baptiste-piron-204880120/), Faculté Polytechnique, UMONS
 
 ## Introduction
-This project is based on Docker. The following points explain how to install, run and compute the output of the multiple networks implemented. In addition to the main objective, the attention map, this docker has also several purposes.
+Test for contrib. This project is based on Docker. The following points explain how to install, run and compute the output of the multiple networks implemented. In addition to the main objective, the attention map, this docker has also several purposes.
 
 - SSD: Single Shot Multibox Detector.  [Original paper](https://arxiv.org/abs/1512.02325).  [Tensorflow implementation](https://github.com/balancap/SSD-Tensorflow)
 - Mask R-CNN. [Original paper](https://arxiv.org/abs/1703.06870). [Keras & Tensorflow implementation](https://github.com/matterport/Mask_RCNN).
