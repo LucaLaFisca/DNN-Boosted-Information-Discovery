@@ -65,8 +65,8 @@ In extension to those 3 mandatory arguments, the user can also specify two optio
 
 As explained in the introduction, the client allows to access to each network in a more convenient way than the web page. In extension, it also offers the possibility to make a csv file from source images. This CSV will allows the user to make a research among a huge database in the following way:
 
-- class of the object
-- occurence of this object
+- class of the object.
+- occurence of this class.
 - position of this (those) object(s).
 
 For example, this tool provides an easy way to search pictures with a car on the top right of the image or with 4 peoples at the left of the image. While it is not directly implemented, the user could use this tool several times to make advanced filtering. 
